@@ -288,15 +288,15 @@ All processes complete: Model training, Demo, Performance evaluation, Visualizat
 ## 🏋️ Training Output Plots
 
 ### 🎯 Content-Based (CB) Cluster 2D Visualization (PCA)
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/7e040093-8a74-402c-bcb1-19f21db7dd69" />
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/d410c5df-f978-4c15-b8f1-a1a49068bf75" />
 
 ---
 ### 🤝 Collaborative Filtering (CF) Song Vector 2D Visualization (Colored by CB Clusters)
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/b36c292a-7024-4a14-ae66-a592161683f2" />
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/1ce4f58f-ab37-4615-a9c4-824c7ceade5f" />
 
 ---
 ### 📈 CF Model Performance Evaluation (Top-10 Recommendations)
-<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/9296e273-4ced-46f2-ad1e-66b310f5009d" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/21f8e062-8434-45b2-8471-c567be324796" />
 
 ---
 
@@ -440,16 +440,14 @@ All processes complete: Model training, Demo, Performance evaluation, Visualizat
 ## 🧪 Test Output Plots
 
 ### 🎯 Content-Based (CB) Cluster 2D Visualization (PCA)
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/666eeea8-3331-488a-a1d2-f1580a29344e" />
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/3d79d21f-c15a-44f6-b26d-59c607400f7a" />
 
 ---
 
 ### 🤝 Collaborative Filtering (CF) Song Vector 2D Visualization (Colored by CB Clusters)
-
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/3f8ece91-417a-45ca-8328-c4591943af67" />
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/9bfdcb69-cb30-4695-96ce-db8bd86cd948" />
 
 ---
 
 ### 📈 CF Model Performance Evaluation (Top-10 Recommendations)
-
-<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/4a77cb78-1899-4218-ad54-47903650ec08" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/6db0ee5c-febf-42a9-9aa2-d8c0b039e0e3" />
