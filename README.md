@@ -42,7 +42,8 @@ This dataset merges and reconstructs MSD, Spotify, and Last.fm.
 📎 [Dataset Link](https://www.kaggle.com/competitions/msdchallenge/overview)  
 
 **Files:**
-- `train_triplets.txt`: user–track listening data  
+- `train_triplets.txt`: user–track listening data
+- Convert this dataset to use for testing and name it as `User Listening History.csv`
 
 ---
 
