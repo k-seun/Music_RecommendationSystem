@@ -146,7 +146,7 @@ model_cf.fit(item_user_matrix, show_progress=True)
 ---
 
 ## 🧩 Architecture Description
-<img width="500" height="550" alt="Image" src="https://github.com/user-attachments/assets/67238cc9-9627-49b2-9db1-7cd4c8f5af21" />
+<img width="500" height="550" alt="Image" src="https://github.com/user-attachments/assets/de8199b0-902d-4ede-a06b-bd178fcc7198" />
 
 ---
 
